@@ -7,7 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-   <link rel="Shortcut Icon" href="./media/title.ico" type="image/x-icon" />
+   <link rel="Shortcut Icon" href="./images/title.jpg" type="image/jpg" />
 </head>
 <body>
   <div id="app"></div>
@@ -17,7 +17,15 @@
       repo: '',
       loadSidebar: true, // 展示侧边导航
       subMaxLevel: 0, // 显示目录
-      coverpage: true // 展示封面
+      coverpage: true, // 展示封面
+       search: {
+                maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+                paths: 'auto',
+                placeholder: '搜索',
+                noData: '找不到结果',
+                depth: 2,
+                hideOtherSidebarContent: true,
+            },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
