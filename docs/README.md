@@ -31,8 +31,8 @@ java 全栈技术组件文档,基于 [docsify](https://docsify.js.org/#/) 搭建
 
 ```
 .
-├── database                                                        // 项目中依赖的包
-├── designparent                                                              // 静态文件目录
+├── database                                                        //
+├── designparent                                                    //
 ├── git
 
 ```
