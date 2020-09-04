@@ -1,6 +1,6 @@
 # 项目介绍
 
-java 全栈技术组件文档,基于 [docsify](https://docsify.js.org/#/) 搭建。 访问进入[首页](https://yaoxingle.github.io/fullstack/#/)
+java 全栈技术积累文档,基于 [docsify](https://docsify.js.org/#/) 搭建。 访问进入[github pages](https://yaoxingle.github.io/fullstack/#/)
 
 ## 项目运行方式
 
