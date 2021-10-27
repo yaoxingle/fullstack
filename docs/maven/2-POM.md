@@ -1,7 +1,7 @@
 ### 2.1.目录
 
 - [什么是 POM](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#What_is_a_POM)？
-- [超级聚甲醛](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#Super_POM)
+- [超级POM](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#Super_POM)
 - [最小的 POM](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#Minimal_POM)
 - 项目传承
   - [示例 1](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#Example_1)

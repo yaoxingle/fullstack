@@ -1,10 +1,10 @@
 * [介绍](/introduce)
-* 操作系统
-  * Linux
-    * [常用命令](/os/linux/command)
-    * [JAVA环境配置](/os/linux/java-env)
-  * Windows
-    * [常用快捷](/os/windows/command)
+* Maven
+  * [1-构建生命周期介绍.md](/maven/1-Build-Lifecycle)
+  * [2-POM介绍.md](/maven/2-POM)
+  * [3-Profiles介绍.md](/maven/3-Profiles)
+  * [4-标准的目录布局介绍.md](/maven/4-Standard-Directory-Layout)
+  * [5-依赖机制介绍.md](/maven/5-Dependency)
 * 工具
   * idea
     * [帮助](/toolkit/idea/idea)
