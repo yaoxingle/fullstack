@@ -1,35 +1,23 @@
 # 项目介绍
 
-java 全栈技术积累文档,基于 [docsify](https://docsify.js.org/#/) 搭建。 访问进入[github pages](https://yaoxingle.github.io/fullstack/#/)
+[全栈技术首页](https://yaoxingle.github.io/fullstack/#/)
 
-## 项目运行方式
+# 如何本地运行
 
-* node
-<br>
+# 快速开始
 
-    安装 node 环境
+建议`docsify-cli`全局安装，有助于在本地初始化和预览网站。
 
-    ```js
-    node app
-    ```
-
-* docsify-cli  **推荐**
-<br>
-
-    1、下载 docsify-cli 包
-
-    ```js
-    npm i docsify-cli -g
-    ```
-    2、然后进入 **public** 文件夹，执行
-
-    ```js
-    docsify serve
-    ```
-
-## 项目结构
-
+```bash
+npm i docsify-cli -g
 ```
 
+## 预览您的网站
 
+运行本地服务器`docsify serve`。您可以在浏览器中预览您的网站`http://localhost:3000`。
+
+```bash
+docsify serve docs
 ```
+
+有关 的更多用例`docsify-cli`，请转到[docsify-cli 文档](https://github.com/docsifyjs/docsify-cli)。
