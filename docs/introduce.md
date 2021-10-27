@@ -4,7 +4,12 @@
 
 
 
-主要包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
+主要包含: Java 基础, Java 部分源码, JVM, 
+框架类：Spring, Spring Boot, Spring Cloud, 
+数据库类：数据库原理, MySQL, ElasticSearch, MongoDB, 
+容器类：Docker, k8s, CI&CD, 
+运维类：Linux, DevOps, 
+工具类：Git, Maven，IDE...
 
 
 
