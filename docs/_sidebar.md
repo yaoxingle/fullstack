@@ -1,10 +1,10 @@
 * [介绍](/introduce)
 * Maven
-  * [1-构建生命周期介绍.md](/maven/1-Build-Lifecycle)
-  * [2-POM介绍.md](/maven/2-POM)
-  * [3-Profiles介绍.md](/maven/3-Profiles)
-  * [4-标准的目录布局介绍.md](/maven/4-Standard-Directory-Layout)
-  * [5-依赖机制介绍.md](/maven/5-Dependency)
+  * [1-构建生命周期介绍](/maven/1-Build-Lifecycle)
+  * [2-POM介绍](/maven/2-POM)
+  * [3-Profiles介绍](/maven/3-Profiles)
+  * [4-标准的目录布局介绍](/maven/4-Standard-Directory-Layout)
+  * [5-依赖机制介绍](/maven/5-Dependency)
 * 工具
   * idea
     * [帮助](/toolkit/idea/idea)
@@ -17,8 +17,8 @@
   * [七大设计原则](/designparent/seven-principles)
   * [类图](/designparent/UML/class-image)
 * GIT
-  * 1-[基本概念](/git/1-Git-About)
-  * 2-[Github笔记](/git/2-github-cheat-sheet)
+  * [1-基本概念](/git/1-Git-About)
+  * [2-Github小抄笔记](/git/2-github-cheat-sheet)
 * HTML-CSS
   * [css基础](/html-css/css-base)
   * [样式选择器](/html-css/css-selector)
