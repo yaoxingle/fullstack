@@ -17,8 +17,8 @@
   * [七大设计原则](/designparent/seven-principles)
   * [类图](/designparent/UML/class-image)
 * GIT
-  * [基本概念](/git/create)
-  * [创建仓库](/git/env)
+  * 1-[基本概念](/git/1-Git-About)
+  * 2-[Github笔记](/git/2-github-cheat-sheet)
 * HTML-CSS
   * [css基础](/html-css/css-base)
   * [样式选择器](/html-css/css-selector)
