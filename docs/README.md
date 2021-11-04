@@ -1,6 +1,9 @@
 # 项目介绍
 
-[全栈技术首页](https://yaoxingle.github.io/fullstack/#/)
+
+访问查看页面[全栈技术首页](https://yaoxingle.github.io/fullstack/#/)
+
+![about.png](README.assets/about.png)
 
 内容大纲
 
