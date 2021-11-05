@@ -8,7 +8,7 @@
 
 下图显示了 Spring 如何工作的高级视图。您的应用程序类与配置元数据相结合，因此，在`ApplicationContext`创建和初始化之后，您就有了一个完全配置且可执行的系统或应用程序。
 
-![container magic](2-2Container介绍.assets/container-magic.png)
+![container magic](1-2Container介绍.assets/container-magic.png)
 
 图 1. Spring IoC 容器
 
@@ -63,9 +63,9 @@ Spring 配置包含至少一个并且通常不止一个容器必须管理的 bea
 
 提供给`ApplicationContext`构造函数的一个或多个位置路径是资源字符串，允许容器从各种外部资源（例如本地文件系统、Java 等）加载配置元数据`CLASSPATH`。
 
-爪哇
+Java
 
-科特林
+
 
 ```java
 ApplicationContext context = new ClassPathXmlApplicationContext("services.xml", "daos.xml");
@@ -179,9 +179,9 @@ beans {
 
 将`ApplicationContext`让你读bean定义和访问它们，如下例所示：
 
-爪哇
+Java
 
-科特林
+
 
 ```java
 // create and configure beans
@@ -196,9 +196,9 @@ List<String> userList = service.getUsernameList();
 
 使用 Groovy 配置，引导看起来非常相似。它有一个不同的上下文实现类，它是 Groovy 感知的（但也理解 XML bean 定义）。以下示例显示了 Groovy 配置：
 
-爪哇
+Java
 
-科特林
+
 
 ```java
 ApplicationContext context = new GenericGroovyApplicationContext("services.groovy", "daos.groovy");
@@ -206,9 +206,7 @@ ApplicationContext context = new GenericGroovyApplicationContext("services.groov
 
 最灵活的变体是`GenericApplicationContext`结合读者委托——例如，结合`XmlBeanDefinitionReader`for XML 文件，如下例所示：
 
-爪哇
-
-科特林
+Java
 
 ```java
 GenericApplicationContext context = new GenericApplicationContext();
@@ -218,9 +216,7 @@ context.refresh();
 
 您还可以使用`GroovyBeanDefinitionReader`for Groovy 文件，如以下示例所示：
 
-爪哇
-
-科特林
+Java
 
 ```java
 GenericApplicationContext context = new GenericApplicationContext();
