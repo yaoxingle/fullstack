@@ -103,23 +103,14 @@
       * [1-1-5Bean的作用域](/spring-framework/core/1-IoC容器/1-1-5Bean的作用域)
       * [1-1-6Customizing the Nature of a Bean](/spring-framework/core/1-IoC容器/1-1-6CustomizingTheNatureofaBean)
       * [1-1-7Bean Definition集成](/spring-framework/core/1-IoC容器/1-1-7Bean-Definition集成)
-      
       * [1-1-8容器扩展点](/spring-framework/core/1-IoC容器/1-1-8容器扩展点)
-      
       * [1-1-9基于注解的容器配置](/spring-framework/core/1-IoC容器/1-1-9基于注解的容器配置)
-      
       * [1-1-10Bean的作用域](/spring-framework/core/1-IoC容器/1-1-10Dependencies介绍)
-      
       * [1-1-11使用JSR330标准注解](/spring-framework/core/1-IoC容器/1-1-11使用JSR330标准注解)
-      
       * [1-1-12基于Java代码中容器配置](/spring-framework/core/1-IoC容器/1-1-12基于Java代码中容器配置)
-      
       * [1-1-13Environment Abstraction](/spring-framework/core/1-IoC容器/1-1-13EnvironmentAbstraction)
-      
       * [1-1-14注册一个LoadTimeWeaver](/spring-framework/core/1-IoC容器/1-1-14注册一个LoadTimeWeaver)
-      
       * [1-1-15ApplicationContext的附加功能](/spring-framework/core/1-IoC容器/1-1-15ApplicationContext的附加功能)
-      
       * [1-1-16BeanFactory](/spring-framework/core/1-IoC容器/1-1-16BeanFactory)
     * 1-2Resources
     * 1-3Validation,Data Binding,and Type Conversion
@@ -149,38 +140,24 @@
       * 3-8-1
       * 3-8-1
   * 4-Web Servlet
-  
     * 4-1Spring Web MVC
-  
       * 4-1-1DispatcherServlet
-  
       * 4-1-2Filters
-  
       * 4-1-3注解Controllers
-  
       * 4-1-4Functional Endpoints
-  
       * 4-1-5URI 连接
-  
       * 4-1-6异步的请求
-  
       * 4-1-7CORS跨域共享资源
-  
       * 4-1-8Web Security
-  
       * 4-1-9HTTP缓存
-  
       * 4-1-10View技术
-  
       * 4-1-11Mvc Config
-  
       * 4-1-12HTTP/2
     * 4-2REST clients
     * 4-3Testing
     * 4-4WebSockets
     * 4-5其他Web框架
   * 5-Integration 集成
-  
     * 5-1REST Endpoints
     * 5-2Web Services
     * 5-3EJB

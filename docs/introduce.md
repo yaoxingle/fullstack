@@ -1,10 +1,10 @@
-## Java全栈技术知识交流分享
+## Java全栈技术知识交流分享<!-- {docsify-ignore} -->
 -----------------------------------
 
 [![GitHub stars](https://img.shields.io/github/stars/yaoxingle/fullstack.svg?style=social&label=Stars)](https://github.com/yaoxingle/fullstack)
 [![GitHub forks](https://img.shields.io/github/stars/yaoxingle/fullstack.svg?style=social&label=Fork)](https://github.com/yaoxingle/fullstack)
 
-#### 主要包含: 
+#### 主要包含<!-- {docsify-ignore} -->
 
 Java(语言基础、类和对象、数字和字符串、继承、接口、泛型、Lambda表达式、注解、包、异常...)
 
