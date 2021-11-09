@@ -26,6 +26,14 @@
       * [2-2-9使用Switch表达式进行分支](https://yaoxingle.github.io/fullstack/#/java/2/2-2-9使用Switch表达式进行分支)
     * 2-3使用记录建模不可变数据
     * 2-4类和对象
+      * [2-4-1创建类](https://yaoxingle.github.io/fullstack/#/java/2/2-4-1创建类)
+      * [2-4-2定义方法](https://yaoxingle.github.io/fullstack/#/java/2/2-4-2定义方法)
+      * [2-4-3为类创建构造器](https://yaoxingle.github.io/fullstack/#/java/2/2-4-3为类创建构造器)
+      * [2-4-4调用方法和构造器](https://yaoxingle.github.io/fullstack/#/java/2/2-4-4调用方法和构造器)
+      * [2-4-5创建和使用对象](https://yaoxingle.github.io/fullstack/#/java/2/2-4-5创建和使用对象)
+      * [2-4-6关于类更多的信息](https://yaoxingle.github.io/fullstack/#/java/2/2-4-6关于类更多的信息)
+      * [2-4-7嵌套类](https://yaoxingle.github.io/fullstack/#/java/2/2-4-7嵌套类)
+      * [2-4-8合适使用嵌套类、局部类、匿名类和Lambda表达式](https://yaoxingle.github.io/fullstack/#/java/2/2-4-8何时使用嵌套类、局部类、匿名类和Lambda表达式)
     * 2-5数字和字符串
     * 2-6继承
     * 2-7接口
