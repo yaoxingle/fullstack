@@ -91,7 +91,14 @@
     * [基础](/java/thread/base)
     * [多线程](/java/thread/multi)
     * [线程池](/java/thread/pool)
-* IDEA
+* IntelliJ-IDEA
+  * [介绍](/idea/介绍)
+  * 安装指导
+    * [安装](/idea/安装指导/2-1安装)
+    * [第一次运行IDEA](/idea/安装指导/2-2第一次运行IDEA)
+ * 入门指南
+    * [用户界面概述](/idea/3-入门指南/3-1用户界面概述)
+    * [创建第一个Java应用程序]()
 * Spring Framework
   * [概述](/spring-framework/0-overview)
   * 1-Spring-Core

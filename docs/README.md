@@ -99,7 +99,14 @@
     * [基础](https://yaoxingle.github.io/fullstack/#/java/thread/base)
     * [多线程](https://yaoxingle.github.io/fullstack/#/java/thread/multi)
     * [线程池](https://yaoxingle.github.io/fullstack/#/java/thread/pool)
-* IDEA
+* IntelliJ-IDEA
+  * [介绍](/idea/介绍)
+  * 安装指导
+    * [安装](https://yaoxingle.github.io/fullstack/#/idea/安装指导/2-1安装)
+    * [第一次运行IDEA](https://yaoxingle.github.io/fullstack/#/idea/安装指导/2-2第一次运行IDEA)
+ * 入门指南
+    * [用户界面概述](https://yaoxingle.github.io/fullstack/#/idea/3-入门指南/3-1用户界面概述)
+    * [创建第一个Java应用程序]()
 * Spring Framework
   * [概述](https://yaoxingle.github.io/fullstack/#/spring-framework/0-overview)
   * 1-Spring-Core
