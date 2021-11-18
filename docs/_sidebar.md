@@ -7,7 +7,7 @@
   * 2-了解Java语言
     * [2-1对象、类、接口、包和继承](/java/2/2-1对象-类-接口-包-集成)
     * 2-2Java语言基础知识
-      * [2-2-1创建变量名](/java/2/2-2-1创建变量名)
+      * [2-2-1创建变量命名](/java/2/2-2-1创建变量及命名)
       * [2-2-2在程序中创建基本类型变量](/java/2/2-2-2在程序中创建基本类型变量)
       * [2-2-3在程序中创建数组](/java/2/2-2-3在程序中创建数组)
       * [2-2-4使用Var类型标识符](/java/2/2-2-4使用Var类型标识符)
@@ -92,13 +92,19 @@
     * [多线程](/java/thread/multi)
     * [线程池](/java/thread/pool)
 * IntelliJ-IDEA
-  * [介绍](/idea/介绍)
-  * 安装指导
-    * [安装](/idea/安装指导/2-1安装)
-    * [第一次运行IDEA](/idea/安装指导/2-2第一次运行IDEA)
- * 入门指南
-    * [用户界面概述](/idea/3-入门指南/3-1用户界面概述)
-    * [创建第一个Java应用程序]()
+  * [1-介绍](/intellij-idea/介绍)
+  * 2-安装指导
+    * [2-1安装](/intellij-idea/安装指导/2-1安装)
+    * [2-2第一次运行IDEA](/intellij-idea/安装指导/2-2第一次运行IDEA)
+   * 3-入门指南
+      * [3-1用户界面概述](/intellij-idea/3-入门指南/3-1用户界面﻿)
+      * [3-2创建第一个Java应用程序](/intellij-idea/3-入门指南/3-2创建您的第一个Java应用程序)
+      * [3-3快捷键](/intellij-idea/3-入门指南/3-3键盘快捷键)
+      * [3-4插件](/intellij-idea/3-入门指南/3-4插件)
+      * [3-5离线工作](/intellij-idea/3-入门指南/4-5离线工作)
+      * [3-6辅助功能](/intellij-idea/3-入门指南/4-6辅助性功能)
+      * [3-7专业提示](/intellij-idea/3-入门指南/4-7IntelliJ-IDEA专业提示)
+      * [3-8从Eclipse迁移到IntelliJ-IDEA](/intellij-idea/3-入门指南/4-8从Eclipse迁移到IntelliJIDEA)
 * Spring Framework
   * [概述](/spring-framework/0-overview)
   * 1-Spring-Core
