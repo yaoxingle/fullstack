@@ -2,7 +2,7 @@
 
 ## 详细点击进入 [全栈技术首页](https://yaoxingle.github.io/fullstack/#/)
 
-![about.png](README.assets/about.png)
+![about.png](https://z3.ax1x.com/2021/11/19/I7zWRJ.png)
 
 ## 内容大纲
 
