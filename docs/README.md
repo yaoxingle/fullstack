@@ -2,9 +2,8 @@
 
 ## [Java全栈技术知识](https://yaoxingle.github.io/fullstack/#/)
 
-![image-20211119135410158](https://z3.ax1x.com/2021/11/19/IHtuF0.png)
-
-![image-20211119135450030](https://z3.ax1x.com/2021/11/19/IHtmoq.png)
+![image-20211119135450030](https://z3.ax1x.com/2021/11/19/IHw3ZQ.png)
+![image-20211119135450030](https://z3.ax1x.com/2021/11/19/IHw8aj.png)
 
 ## 内容大纲
 
