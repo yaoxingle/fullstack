@@ -20,6 +20,9 @@
   * [1-介绍](/intellij-idea/介绍)
   * [2-安装指导](/intellij-idea/安装指导/2-1安装)
    * [3-入门指南](/intellij-idea/3-入门指南/3-1用户界面﻿)
+   * [4-IDEA配置](/intellij-idea/1-2IDE配置/1-2-1配置IDE.md)
+   * [5-项目配置](/ntellij-idea/1-2Project配置/1-2-1概述.md)
+   * [6-代码编辑](/ntellij-idea/1-3编写和编辑源代码/1-3-1概述.md)
 
 * Spring Framework
 

@@ -145,10 +145,10 @@
       * [5-6项目结构设置](/ntellij-idea/1-2Project配置/1-2-6项目结构设置.md)
       * [5-7打开、关闭、迁移工厂](/ntellij-idea/1-2Project配置/1-2-7打开、关闭、移动工程.md)
   * 6-编辑代码
-      * 11
-      * 22
-      * 33
-      * 6-编辑代码
+      * [6-1概述](/ntellij-idea/1-3编写和编辑源代码/1-3-1概述.md)
+      * [6-2编辑器基础](/ntellij-idea/1-3编写和编辑源代码/1-3-2编辑器基础.md)
+      * [6-3多光标范围选择](/ntellij-idea/1-3编写和编辑源代码/1-3-3多光标选择范围.md)
+      * [6-4代码导航](/ntellij-idea/1-3编写和编辑源代码/1-3-4源代码导航.md)
   * 7-编辑代码
 * Spring Framework
   * [概述](/spring-framework/0-overview)
