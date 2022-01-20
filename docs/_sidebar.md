@@ -260,16 +260,7 @@
 * 数据库
 * 设计模式
   * [七大设计原则](/designparent/seven-principles)
-  * [类图](/designparent/UML/class-image)
-* Html
-  * [css基础](/html-css/css-base)
-  * [样式选择器](/html-css/css-selector)
-  * [div](/html-css/div)
-  * [响应式布局](/html-css/Bootstrap)
-  * [bootstrap](/html-css/Responsive-Layout)
-* Css
-* Javascript
-  * [基础](/javascript/base)
+  * [类图](/designparent/UML/类图)
 * SpringCloud
 * Redis
   * [基础](/redis/base)
