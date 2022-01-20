@@ -114,14 +114,42 @@
     * [2-1安装](/intellij-idea/安装指导/2-1安装)
     * [2-2第一次运行IDEA](/intellij-idea/安装指导/2-2第一次运行IDEA)
    * 3-入门指南
+     
       * [3-1用户界面概述](/intellij-idea/3-入门指南/3-1用户界面﻿)
+      
       * [3-2创建第一个Java应用程序](/intellij-idea/3-入门指南/3-2创建您的第一个Java应用程序)
+      
       * [3-3快捷键](/intellij-idea/3-入门指南/3-3键盘快捷键)
+      
       * [3-4插件](/intellij-idea/3-入门指南/3-4插件)
+      
       * [3-5离线工作](/intellij-idea/3-入门指南/4-5离线工作)
+      
       * [3-6辅助功能](/intellij-idea/3-入门指南/4-6辅助性功能)
+      
       * [3-7专业提示](/intellij-idea/3-入门指南/4-7IntelliJ-IDEA专业提示)
+      
       * [3-8从Eclipse迁移到IntelliJ-IDEA](/intellij-idea/3-入门指南/4-8从Eclipse迁移到IntelliJIDEA)
+  * 4-IDE配置
+      * [4-1概述](/intellij-idea/1-2IDE配置/1-2-1配置IDE.md)
+      * [4-2颜色及字体](/intellij-idea/1-2IDE配置/1-2-4颜色和字体.md)
+      * [4-3文件类型管理](/intellij-idea/1-2IDE配置/1-2-5文件类型关联.md)
+      * [4-4编码](/intellij-idea/1-2IDE配置/1-2-6编码.md)
+      * [4-5共享IDE配置](/intellij-idea/1-2IDE配置/1-2-7分享IDE设置.md)
+  * 5-Project配置
+      * [5-1概述](/ntellij-idea/1-2Project配置/1-2-1概述.md)
+      * [5-2项目安全](/ntellij-idea/1-2Project配置/1-2-2项目安全.md)
+      * [5-3创建一个新工厂](/ntellij-idea/1-2Project配置/1-2-3创建一个新工程.md)
+      * [5-4导入项目](/ntellij-idea/1-2Project配置/1-2-4导入项目.md)
+      * [5-5项目中添加项](/ntellij-idea/1-2Project配置/1-2-5项目中添加项.md)
+      * [5-6项目结构设置](/ntellij-idea/1-2Project配置/1-2-6项目结构设置.md)
+      * [5-7打开、关闭、迁移工厂](/ntellij-idea/1-2Project配置/1-2-7打开、关闭、移动工程.md)
+  * 6-编辑代码
+      * 11
+      * 22
+      * 33
+      * 6-编辑代码
+  * 7-编辑代码
 * Spring Framework
   * [概述](/spring-framework/0-overview)
   * 1-Spring-Core
